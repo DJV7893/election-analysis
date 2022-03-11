@@ -31,7 +31,7 @@ Our analysis of the Colorado congressional precinct election produced the follow
   * Voter turnout broke down in the following way for each county:
     * Jefferson County represented 10.5% of the voters with 38,855 votes.
     * Denver County represented 82.8% of the voters with 306,055 votes.
-    * Arapahoe County represented 6.7% of the voters with 24, 801 votes.
+    * Arapahoe County represented 6.7% of the voters with 24,801 votes.
   
   * The county with the largest voter turnout was:
     * Denver County, representing 82.8% of the voters with 306,055 votes.
