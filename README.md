@@ -34,7 +34,7 @@ Our analysis of the Colorado congressional precinct election produced the follow
     * Arapahoe County represented 6.7% of the voters with 24, 801 votes.
   
   * The county with the largest voter turnout was:
-    * Denver County representing 82.8% of the voters with 306,055 votes.
+    * Denver County, representing 82.8% of the voters with 306,055 votes.
 
   * The vote breakdown for each candidate was:
     * Charles Casper Stockham received 23.0% of the total vote with 85,213 votes.
@@ -42,7 +42,7 @@ Our analysis of the Colorado congressional precinct election produced the follow
     * Raymon Anthony Doane received 3.1% of the total vote with 11,606 votes.
 
   * The winning candidate was:
-    * Diana DeGette receiving 73.8% of the total vote with 272,892 votes.
+    * Diana DeGette, receiving 73.8% of the total vote with 272,892 votes.
 
 ---
 ## Summary
