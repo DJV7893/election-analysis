@@ -26,7 +26,7 @@ In order to so, we went through our previous Python programming script and added
 
 Our analysis of the Colorado congressional precinct election produced the following outcomes:
 	
-  * The total votes for the election were 369,711.
+  * The total votes for the election was 369,711.
   
   * Voter turnout broke down in the following way for each county:
     * Jefferson County represented 10.5% of the voters with 38,855 votes.
