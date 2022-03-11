@@ -1,8 +1,8 @@
-# Election Analysis
+# Election Audit Analysis
 ---
-## Overview of Election Audit
+## Overview
 ---
-### Purpose:
+### Election Audit Purpose:
 
 A Colorado Board of Elections employee, Tom, has tasked us to assist in completing an election audit for a congressional precinct by reporting:
   
@@ -13,7 +13,7 @@ A Colorado Board of Elections employee, Tom, has tasked us to assist in completi
 
 Rather than analyzing and confirming the congressional precinct voting data in excel, we have been tasked with automating the process of generating audit results by writing and running Python programming script. After successfully running our Python code in order to determine the desired outputs and submitting the election results to the election commission, we have been tasked with submitting additional data to complete the audit. The election commission is interested in voter turnout for the congressional precinct and has requested that we report:
 	
-  * Voter turnout for each county
+  * Voter turnout for each county:
 	* Percentage of votes from each county out of the total count.
 	* The county with the highest turnout.
 
