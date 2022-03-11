@@ -1,4 +1,4 @@
-# Election Audit Analysis
+# Election Analysis
 ---
 ## Overview
 ---
