@@ -6,10 +6,10 @@
 
 A Colorado Board of Elections employee, Tom, has tasked us to assist in completing an election audit for a congressional precinct by reporting:
   
-  *Total number of votes cast 
-  *Total number of votes for each candidate 
-  *Percentage of votes for each candidate 
-  *The winner of the election based on the popular vote
+  * Total number of votes cast 
+  * Total number of votes for each candidate 
+  * Percentage of votes for each candidate 
+  * The winner of the election based on the popular vote
 
 Rather than analyzing and confirming the congressional precinct voting data in excel, we have been tasked with automating the process of generating audit results by writing and running Python programming script. After successfully running our Python code in order to determine the desired outputs and submitting the election results to the election commission, we have been tasked with submitting additional data to complete the audit. The election commission is interested in voter turnout for the congressional precinct and has requested that we report:
 	
